@@ -30,4 +30,5 @@ Qitao Yang, yqitao
 * https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
-  My partner said that I got to the solution, but I could have walked him through my solution better and done it a little more efficiently. 
+  My partner said I have the technical skills to complete the leetcode on her own and show a strong coding skills.
+One thing that my partner can work on is walk me through her solution during interview. For example, writing down comments along the way can help the interviewer see the thought process of the interviewee. 
